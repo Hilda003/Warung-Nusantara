@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Warung Nusantara</string>
+    <string name="app">App</string>
+    <string name="warung">Warung</string>
+    <string name="Nusantara">Nusantara\n</string>
+    <string name="food_name">Food Name</string>
+    <string name="bika_ambon">Bika Ambon, Sumatra Utara</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusantium alias beatae consequatur cupiditate dignissimos, dolore doloribus ea,
+        eligendi eum in ipsa labore modi nam perferendis placeat quae! Commodi, tempore!</string>
+    <string name="hilda">Hildatul Wardah\n</string>
+    <string name="email">a283bsx2294@bangkit.academy</string>
+    <string name="about">About</string>
+
+
+    <string-array name="data_name_food">
+        <item>Bika Ambon, Sumatra Utara</item>
+        <item>Gohu Ikan, Maluku Utara </item>
+        <item>Juhu Singkah, Kalimantan Tengah</item>
+        <item>Mie Aceh, Aceh</item>
+        <item>Empek-empek, Sumatra Selatan</item>
+        <item>Pendap, Bengkulu</item>
+        <item>Rendang, Sumatra Barat</item>
+        <item>Serabi, Jawa Barat</item>
+        <item>Seruit, Lampung</item>
+        <item>Sup Konro, Sulawesi Selatan</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            Bika ambon merupakan salah satu makanan khas Medan, Sumatra Utara. Kudapan jenis ini kerap menjadi buah tangan atau oleh-oleh andalan para wisatawan.
+            Bika ambon merupakan kue basah yang terkenal dengan warna kuning dan berongga di dalamnya. Kue ini juga memiliki rasa dan aroma yang khas sehingga membuat orang ketagihan untuk memakannya.
+            Bika ambon memiliki sejarah asal muasal yang menarik. Terlebih penamaan "ambon" dalam makanan tradisional khas Medan.
+            Dikutip dari laman pemkomedan.go.id, nama kue bika ambon diambil dari kata bika. Bika adalah sejenis kue khas Melayu yang biasanya juga disebut sebagai bingka.
+            Kue bika ambon adalah hasil modifikasi dari bika khas Melayu, yang ditambahkan nira atau tuak enau sebagai pengembang. Dulu, pada tahun 1980-an di Jalan Majapahit di kota Medan, banyak dijual kue bika ambon.
+            Kuliner Medan ini dulunya disantap bersama dengan es krim pada 1970-an. Sementara menurut sumber lainnya,istilah bika dan bibingka diperkenalkan oleh Portugis.
+            Istilah ini pada mulanya berarti adalah kue yang terbuat dari tepung beras. Selain cerita asal-usul bika ambon di atasa, ada juga beberapa cerita sejarah mengenai keberadaan bika ambon di tanah Medan.
+
+        </item>
+        <item>
+            Gohu ikan merupakan makanan khas Ternate yang terbuat dari ikan Tuna ataupun Cakalang mentah yang juga disebut sebagai Sashimi Ternate atau Ceviche Ternate oleh beberapa orang.[1]
+            Jenis makanan ini di kalangan orang Ternate dan bagi para wisatawan yang datang ke Ternate karena "Gohu Ikan", mengandung niai kebaikan dalam konteks kesehatan.
+            Dikatakan demikian karena bahan utama dari makanan Gohu Ikan adalah Ikan Laut yang masih segar. Ikan laut yang sering dipakai adalah Ikan Tuna dan Ikan Cakalang.
+            Kedua jenis ikan ini mengandung gizi yang tinggi dan menyehatkan, yakni memiliki protein tinggi dan kandungan asam lemak omega-3 yang berguna bagi tubuh, terutama menjaga stamina,
+            mencegah kanker, menjaga kesehatan mata, detoksifikasi, melindungi kesehatan jantung dan melindungi kesehatan otak, dikutip dari situs Dokter Sehat dengan judul artikel "Manfaat Ikan Tuna Bagi Kesehatan."[2]
+            Cara membuat Gohu ikan dengan cara Ikan Tuna ataupun Cakalang, garam, jeruk nipis dan kemangi dicampur dalam keadaan mentah. Lalu campurkan bawang merah dan cabai yang telah ditumis.
+            Gohu ikan dapat dinikmati dengan Papeda, Kasbi dan Huda.[3]
+        </item>
+        <item>
+            Dalam bahasa Dayak Maanyan Umbut Rotan dikenal dengan uwut nang’e. Sedangkan dalam bahasa Dayak Ngaju dikenal dengan Juhu Singkah.Umbut Rotan awalnya di perkenalkan oleh masyarakat Suku Dayak dan
+            kemudian menyebar luas di Kalimantan tengah.Umbut Rotan ini sangat mudah diperoleh di hutan atau di tepi sungai, karena itulah masyarakat Dayak menggunakannya sebagai bahan makanannya.
+            Dalam makanan Umbut Rotan ini menggunakan rotan yang masih muda atau tunas yang tumbuh pada pangkal rotan.Sama seperti rebung pada bambu, tekstur pada rotan muda itu masih kenyal dan tidak keras seperti rotan yang sudah tua.
+            Namun bedanya, Umbut Rotan ini hanya bisa di gunakan sebagai sayur, tidak seperti rebung yang bisa di gunakan sebagai bahan makanan lainnya.Rasa dari rotan muda sedikit pahit dan gurih,
+            sehingga membutuhkan bumbu khusus dalam proses memasaknya.Rasa dari masakan Umbut Rotan ini sangat unik apa bila kita memakannya dengan menu tambahan lain.Ada rasa gurih, asam dan sedikit pahit dari sayur Umbut Rotan.
+            Selain itu bila di padukan dengan ikan bakar yang rasanya manis dan sambal yang rasanya pedas maka akan timbul cita rasa yang unik.Dalam perkembangannya, Umbut Rotan tidak hanya digunakan untuk makanan pokok masyarakat Dayak saja.
+            Namun seiring dengan perkembangan, makanan khas satu ini telah menjadi kuliner tradisional Kalimantan tengah, dan banyak warung makanan khas Kalimantan tengah yang menyediakan Umbut Rotan.
+            Maka bagi kamu yang berkunjung ke Kalimantan tengah kurang lengkap rasanya bila belum merasakan makanan khas satu ini.
+        </item>
+        <item>Mie Aceh merupakan satu dari kuliner khas yang berasal dari Nanggroe Aceh Darussalam.
+            Ciri khas dari kuliner yang satu ini ialah mie yang disiram kuah kari kental yang bercita rasa rempah-rempah, ditambah aneka lauk didalamnya.
+            Jika kuliner mie pada umumnya menggunakan daging sapi, ayam maupun aneka hewan laut, mie Aceh memadukan semua lauk tersebut.
+            Hidangan khas Aceh ini, menggunakan campuran daging sapi, ayam, kambing, bahkan olahan aneka seafood seperti cumi hingga kepiting.
+            Tidak perlu khawatir soal cita rasa, aneka rempah-rempah khas Aceh seperti cabai, lada, jinten, kapulaga dan kunyit menjadi bumbu dasar pembuatan kuah kari kuliner ini.
+            Sehingga, kuliner ini memiliki rasa yang komplit. Mie Aceh berbeda dengan mie pada umumnya. Bahan dasar mie yang diolah bertekstur kenyal,
+            pipih dan juga tebal serta warna yang cenderung kuning cerah, sehingga menambah keindahan pada kuliner tersebut.
+        </item>
+        <item>
+            Terciptanya makanan khas Palembang, pempek, berawal dari rasa prihatin seorang apek (Tuan China) karena melihat hasil tangkapan ikan yang melimpah dan tidak diolah dengan baik.
+            Dia pun akhirnya mengolah ikan-ikan tersebut menggunakan cara lain yaitu mencampurnya dengan tepung tapioka hingga menghasilkan menu baru. Awalnya, makanan ini dinamakan kelesan
+            pada masa Kesultanan Palembang yang memiliki arti panganan/makanan adat di dalam Rumah Limas. Dinamakan kelesan juga karena makanan ini dikeles atau tahan disimpan lama.
+            Lalu mengapa berubah nama menjadi pempek? Asal usul pempek berawal dari seorang apek asal Tiongkok yang dikenal dengan keahliannya dalam berdagang.
+            Apek atau Empek merupakan panggilan untuk orang Tiongkok yang berdagang kelesan. Para pembeli biasa memanggil “Pek, Empek" yang akhirnya menjadi populer dan membuat kelesan lebih dikenal dengan Pempek.
+            Sekarang, pempek memiliki banyak varian yang dapat dicoba, antara lainnya varian lenjer, kapal selam, adaan, kulit, dan lainnya. Meski begitu, asal usul pempek tetap harus kita lestarikan sejarah, keaslian rasa dan resepnya.
+        </item>
+        <item>
+            Menurut sejarahnya, di wilayah Bengkulu pernah berdiri kerajaan-kerajaan, seperti Kerajaan Sungai Serut, Kerajaan Selebar, Kerajaan Patpetulai, Kerajaan Balai Buntar, Kerajaan Sungai Lemau,
+            Kerajaan Sekiris, Kerajaan Gedung Agung dan Kerajaan Marau Riang di bawah Kesultanan Banten. Provinsi Bengkulu yang berjuluk "Bumi Rafflesia" ini kini terdiri dari 10 kabupaten/kota.
+            Sedangkan suku yang tinggal, di antaranya Suku Rejang,  Pekal, Serawai, Mukomuko, Lembak, Basemah, Kaur dan Enggano. Selain itu, di provinsi ini memiliki berbagai kuliner tradisional seperti bay tat,
+            perut punai, kue som, cucur tinggit, kue bongkol, lempuk durian, lepat (lepek) binti, gelamai, manisan terong, emping dan masih banyak lagi. Bahkan, untuk lauk makan yang cocok dikonsumsi dengan nasi hangat yaitu lemea,
+            tempoyak udang dan ikan, gulai ikan rebung asam, gulai pisang muda, bagar hiu dan yang cukup populer adalah pendap.Seorang pedagang pendap di Kelurahan Tanjung Agung. Kota Bengkulu, Siti,
+            menjelaskan bahwa bahan dasar pembuatan lauk tersebut adalah daun talas, bumbu rendang, cabai, ikan laut, kelapa muda parut dan beberapa rempah khas Bengkulu.Dalam proses pemasakan,
+            tidak semua jenis daun talas atau keladi yang dapat digunakan hanya tiga jenis yaitu keladi putih, keladi semi hitam dan keladi hitam.Penggunaan daun talas dalam proses pembuatan pendap agar bumbu, ikan laut,
+            kelapa muda parut tidak hancur dan air tidak masuk ke dalam bahan tersebut saat direbus.
+            "Selain menggunakan daun talas yang cukup banyak, pembuatan pendap juga menggunakan daun pisang yang diikat dengan tali plastik," ujar Siti di Kota Bengkulu.Lauk khas Bengkulu ini merupakan kuliner dengan cita rasa yang gurih,
+            serta didominasi oleh rasa pedas. Dulu pendap dikonsumsi oleh masyarakat sebagai cocolan ubi oleh warga setempat, khususnya Kabupaten Bengkulu Selatan.
+        </item>
+        <item>
+            Rendang adalah masakan kuliner dari Kerajaan Minang, Sumatera Barat. Menurut cerita, nama “rendang” berasal dari bahasa Minang yaitu rendang. Kata randang mengacu pada teknik memasak yang disebut marandang,
+            yang berarti memasak dan membalik makanan dalam waktu  lama sehingga  menjadi kering. Kelahiran rendang terjadi sebagai akibat dari proses akulturasi  yang masuk ke Minang. Hidangan kuliner lain yang mirip dengan masakan rendang adalah kari  India.
+            Asal-usul rendang, tidak terlepas dari pengaruh budaya  yang  berkunjung, termasuk India. Daerah Minangkabau memiliki banyak pengaruh dalam hal rempah-rempah, karena secara historis orang India dan Pakistan datang ke Minangkabau untuk mencari rempah-rempah.
+            Setelah  akulturasi melalui perkawinan, bumbu masakan yang ada  mulai menyebar dan dimodifikasi oleh masyarakat Minang, salah satunya untuk masakan rendang. Oleh karena itu, tidak jarang  beberapa masakan  menggunakan bumbu seperti rendang, seperti  kari  India.
+            Keberadaan rendang bagi masyarakat Minang bukan hanya sekedar hidangan tetapi juga erat kaitannya dengan budaya Minang. Jika melihat sejarahnya, keberadaan rendang terkait dengan tradisi marantau (meanau) dan budaya pandai besi di Minang.
+            Orang Minang terkenal dengan budaya merantau, yaitu meninggalkan tanah airnya di Sumatera Barat dan berperang di tanah air seseorang. Sejak dulu, orang Minang yang hijrah akan mendapatkan rendang karena bisa awet dan tahan lama. Bepergian ke luar negeri pada masa itu tidak menggunakan transportasi seperti sekarang ini.
+            Jadi, dulu orang Minang menggunakan perahu panjang atau bus  untuk mencapai negeri asing sehingga mereka dilengkapi dengan rendang sehingga bisa digunakan sebagai bekal perjalanan. Selain itu, alat yang digunakan untuk membuat rendang yaitu kuali besi, yang menunjukkan bahwa orang Minang telah menempa sejak dahulu.
+            Sebelum ada kompor seperti sekarang, orang Minang dalam proses memasak rendang menggunakan api yang cenderung lebih besar, sehingga dapat mendistribusikan panas secara merata di atas wajan besi cor saat memasak rendang.
+
+        </item>
+        <item>
+              Serabi berasal dari bahasa sunda yaitu ‘sura’ yang berarti besar. Serabi sudah menjadi makanan tradisional yang banyak digemari sejak tahun 1923. Asal usul serabi hingga kini masih diperdebatkan.
+            Ada yang menyebutkan serabi berasal dari India, namun ada juga yang mengatakan serabi mendapatkan pengaruh panekuk yang berasal dari Belanda. Bentuk serabi mirip dengan pancake, hanya saja ukurannya lebih kecil dan lebih tebal.
+            Umumnya, adonan serabi dibuat dari tepung beras atau tepung terigu, mentega, dan telur sebagai bahan utama. Adonan tersebut kemudian dicetak di dalam cetakan yang terbuat dari tanah liat, dan dibakar menggunakan tungku atau kayu bakar.
+            Secara tradisional, serabi biasanya disajikan bersama kuah atau saus yang dibuat dari gula jawa dan santan kelapa yang disebut dengan kinca.  Seiring berjalannya waktu, kini sudah banyak modifikasi serabi yang ditambahkan berbagai toppingan manis dan asin, seperti keju, daging, jagung, dan lainnya.
+            Dan disajikan dengan tambahan mayones atau saus cokelat. Terdapat banyak macam serabi di Indonesia, seperti serabi solo, serabi jakarta, serabi bandung, serabi mataram, dan serabi modern. Hanya saja, hanya dua jenis serabi yang cukup terkenal di Indonesia, yakni serabi bandung dan serabi solo.
+             Kedua jenis serabi ini memiliki perbedaan, baik dari bahan hingga penyajian yang berbeda. Jika serabi bandung menggunakan tepung terigu sebagai bahan utamanya, maka serabi Solo menggunakan tepung beras sebagai bahan utamanya.
+
+        </item>
+        <item>
+            Seruit merupakan sambal yang cocok untuk teman makan nasi, khususnya di Kabupaten Way Kanan. Namun, sambal seruit juga terdapat di seluruh Lampung karena merupakan salah satu tradisi di Lampung. Masyarakat Way Kanan menyebut tradisi tersebut dengan nyeruit atau muju yang artinya makan bersama-sama teman, saudara, atau keluarga.
+            Latar belakang seruit merupakan kebiasaan masyarakat Way Kanan. Dimana, mereka selalu mencari bahan makanan yang memunculkan rasa segar dan pedas. Rasanya belum pas apabila makan tanpa sambal seruit. Akhirnya, sambal seruit menjadi makanan turun-temurun yang dikenal sejak nenek moyang hingga saat ini.
+            Kata-kata Nyeruit Yu atau muju, artinya berupa ajakan yang memiliki nilai kebersamaan yang kuat dengan keluarga, teman, dan keluarga sehingga akan terasa dekat. Hingga saat ini, tradisi tersebut masih melekat pada masyarakat Lampung.
+
+        </item>
+        <item>
+            Arti dari konro sendiri adalah sapi, namun isi sop tersebut bukan hanya daging sapi melainkan tulang iga yang berbalut daging.
+            Baik bakar atau rebus, sop ini tetap enak disantap. Hanya berbeda cara penyajiannya saja. Tergantung selera dari para penikmat kuliner.Dengan berbahan dasar iga sapi atau daging sapi, dan berbumbu kayu manis, air asam jawa, dan rempah-rempah sop ini begitu sangat menggoda jika dihidangkan dalam sebuah mangkuk di atas meja.
+            Rasa dan aromanya begitu kuat dan memiliki citarasa tersendiri.Sop konro adalah hidangan wajib bagi masyarakat di Kota Makassar. Konon, sop kondro berawal dari daging kerbau, dimana saat ritual masyarakat akan memotong kerbau kemudian bagian tulang dimasak dengan bumbu sederhana.
+            Awal tahun 90-an, masyarakat Makassar baru mempopulerkannya dengan daging sapi. Sebelumnya masyarakat lebih mengenal daging kerbau untuk diolah dalam berntuk makanan berkuah.
+        </item>
+
+    </string-array>
+
+    <integer-array name="data_image">
+        <item>@drawable/bikaambon</item>
+        <item>@drawable/gohuikan</item>
+        <item>@drawable/juhusingkah</item>
+        <item>@drawable/mieaceh</item>
+        <item>@drawable/pempek</item>
+        <item>@drawable/pendap</item>
+        <item>@drawable/rendang</item>
+        <item>@drawable/serabi</item>
+        <item>@drawable/seruit</item>
+        <item>@drawable/supkonro</item>
+    </integer-array>
+
+    <string-array name="data_rate">
+        <item>8/10</item>
+        <item>9/10</item>
+        <item>7/10</item>
+        <item>9/10</item>
+        <item>8/10</item>
+        <item>7/10</item>
+        <item>8/10</item>
+        <item>7/10</item>
+        <item>6/10</item>
+        <item>9/10</item>
+
+    </string-array>
+</resources>
