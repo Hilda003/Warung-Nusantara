@@ -3,6 +3,7 @@ package com.example.submission_dicoding_android_pemula
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.example.submission_dicoding_android_pemula.databinding.ActivityDetailBinding
@@ -23,12 +24,14 @@ class DetailActivity : AppCompatActivity() {
 
         val nameFood = intent.getStringExtra(EXTRA_NAME)
         val rateFood = intent.getStringExtra(EXTRA_RATE)
+        val locationFood = intent.getStringExtra(EXTRA_LOCATION)
         val descriptionFood = intent.getStringExtra(EXTRA_DESCRIPTION)
         val imageFood = intent.getIntExtra(EXTRA_IMAGE, 0)
 
 
         binding.tvName.text = nameFood
         binding.tvRate.text = rateFood
+        binding.tvLocation.text = locationFood
         binding.tvDesc.text = descriptionFood
         Glide.with(this)
             .load(imageFood)
@@ -53,6 +56,7 @@ class DetailActivity : AppCompatActivity() {
     companion object {
         const val EXTRA_NAME = "extra_name"
         const val EXTRA_RATE = "extra_rate"
+        const val EXTRA_LOCATION = "extra_location"
         const val EXTRA_DESCRIPTION = "extra_description"
         const val EXTRA_IMAGE = "extra_image"
     }
@@ -61,6 +65,8 @@ class DetailActivity : AppCompatActivity() {
         onBackPressedDispatcher.onBackPressed()
         return true
     }
+
+    fun Clicked(view: View) {}
 
 
 }

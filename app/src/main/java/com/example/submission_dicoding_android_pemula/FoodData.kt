@@ -9,5 +9,6 @@ data class FoodData(
     val image: Int = 0,
     val name: String,
     val rate: String,
+    val location: String,
     val description: String,
 ) : Parcelable

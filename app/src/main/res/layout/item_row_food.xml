@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    app:cardElevation="10dp"
-    app:cardCornerRadius="10dp"
-    app:cardMaxElevation="12dp"
-    android:layout_margin="10dp"
+    app:cardCornerRadius="16dp"
+    android:layout_marginTop="12dp"
+    android:layout_marginStart="25dp"
+    android:layout_marginEnd="25dp"
     app:cardBackgroundColor="@color/white"
 
     >
@@ -20,14 +20,13 @@
             android:id="@+id/img_food"
             android:layout_width="90dp"
             android:layout_height="90dp"
-            android:layout_marginStart="24dp"
+            android:layout_marginStart="20dp"
             android:layout_marginTop="16dp"
             android:layout_marginBottom="16dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            tools:ignore="MissingConstraints"
-            tools:src="@android:color/darker_gray">
+            tools:src="@drawable/serabi">
 
         </de.hdodenhof.circleimageview.CircleImageView>
 
@@ -42,25 +41,53 @@
             app:layout_constraintStart_toEndOf="@+id/img_food"
             app:layout_constraintTop_toTopOf="@+id/img_food"
             android:ellipsize="none"
+            android:maxLines="2"
             android:textColor="@color/black"
-            tools:text="Food Name"
-
-            tools:ignore="MissingConstraints" />
+            tools:text="Food Name" />
 
         <TextView
             android:id="@+id/tv_rate"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="9dp"
             android:textSize="14sp"
-            android:textStyle="bold"
-
-            android:layout_marginTop="15dp"
+            android:textColor="@color/black"
+            app:layout_constraintStart_toEndOf="@+id/imageView"
             app:layout_constraintTop_toBottomOf="@+id/tv_name"
-            app:layout_constraintStart_toEndOf="@+id/img_food"
+            tools:ignore="MissingConstraints"
+            tools:text="From the" />
 
-            tools:text="From the"
-            tools:ignore="MissingConstraints" />
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="6dp"
+            app:layout_constraintStart_toEndOf="@+id/img_food"
+            app:layout_constraintTop_toBottomOf="@+id/tv_name"
+            app:srcCompat="@drawable/location_on" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="9dp"
+            app:layout_constraintStart_toEndOf="@+id/img_food"
+            app:layout_constraintTop_toBottomOf="@+id/imageView"
+            app:srcCompat="@drawable/stars" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="12dp"
+            android:layout_marginTop="13dp"
+            android:text="@string/_4_7"
+            android:textColor="@color/black"
+            app:layout_constraintStart_toEndOf="@+id/imageView2"
+            app:layout_constraintTop_toBottomOf="@+id/tv_rate" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

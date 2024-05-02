@@ -10,20 +10,40 @@
     <string name="hilda">Hildatul Wardah\n</string>
     <string name="email">a283bsx2294@bangkit.academy</string>
     <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="_4_7">4.7</string>
+    <string name="title">FoodIn</string>
+    <string name="subtitle">Recommendation local food for you!</string>
+    <string name="home">Home</string>
+    <string name="setting">Setting</string>
 
+
+    <string-array name="data_name_location">
+        <item>Jln. Gatot Subroto</item>
+        <item>Jln. Ahmad Yani 25</item>
+        <item>Jln. Ir Soekarno 15</item>
+        <item>Jln. Manggis 65</item>
+        <item>Jln. Patimura 10</item>
+        <item>Jln. Soeharto 4</item>
+        <item>Jlni aja dulu</item>
+        <item>Jln. Pantura Timur</item>
+        <item>Jln. Bagus Subagja</item>
+        <item>Jln. Budi Utomo 12</item>
+    </string-array>
 
     <string-array name="data_name_food">
         <item>Bika Ambon, Sumatra Utara</item>
         <item>Gohu Ikan, Maluku Utara </item>
-        <item>Juhu Singkah, Kalimantan Tengah</item>
+        <item>Juhu Singkah, Kalimantan</item>
         <item>Mie Aceh, Aceh</item>
-        <item>Empek-empek, Sumatra Selatan</item>
+        <item>Empek-empek, Sumatra</item>
         <item>Pendap, Bengkulu</item>
         <item>Rendang, Sumatra Barat</item>
         <item>Serabi, Jawa Barat</item>
         <item>Seruit, Lampung</item>
         <item>Sup Konro, Sulawesi Selatan</item>
     </string-array>
+
 
     <string-array name="data_description">
         <item>
@@ -144,4 +164,6 @@
         <item>9/10</item>
 
     </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

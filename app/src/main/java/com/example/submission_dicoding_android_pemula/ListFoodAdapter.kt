@@ -13,9 +13,7 @@ import com.example.submission_dicoding_android_pemula.databinding.ItemRowFoodBin
 class ListFoodAdapter(private val listFood: ArrayList<FoodData>) : RecyclerView.Adapter<ListFoodAdapter.ListViewHolder>() {
 
 
-    class ListViewHolder(var binding: ItemRowFoodBinding) : RecyclerView.ViewHolder(binding.root) {
-
-    }
+  class ListViewHolder(val binding: ItemRowFoodBinding) : RecyclerView.ViewHolder(binding.root)
     override fun onCreateViewHolder(
         parent: ViewGroup,
         viewType: Int
