@@ -1,5 +1,5 @@
 
-# Habit App
+# Warung Nusantara App
 
 Submission Learn to Create Android Apps for Beginners: https://www.dicoding.com/academies/51/
 
